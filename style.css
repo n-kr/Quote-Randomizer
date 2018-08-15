@@ -1,0 +1,59 @@
+.container {
+    display: table;
+    margin-right: 400px;
+    margin-left: 400px;
+    text-align: center;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: black;
+    background-image: url('http://wall2born.com/data/out/29/image-46259883-background-pics-hd.jpg');
+    background-repeat: repeat;
+    background-position: top;
+    z-index: -2;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.btn {
+    text-align: center;
+}
+
+.button {
+    background-color: #a09e9e;
+    border-radius: 15px;
+    border: 3px solid #0c0c0c;
+    cursor: pointer;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #a78648;
+}
+
+.button:hover {
+    background-color: #4d4444;
+}
+
+.button:active {
+    position: relative;
+    top: 1px;
+}
+
+p {
+    font-size: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    color: white;
+}
