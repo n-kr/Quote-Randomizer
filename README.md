@@ -1,2 +1,6 @@
 # Quote-Randomizer
-Displays a random quote
+Displays a random quote  
+
+* HTML  
+* CSS  
+* JavaScript
